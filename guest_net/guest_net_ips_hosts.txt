@@ -1,0 +1,6 @@
+10.10.50.1 (doug-A520M-F)
+10.10.50.2 (laptop-luiz.projeto_final_opcao_1_guest_net)
+10.10.50.3 (macbook-aline.projeto_final_opcao_1_guest_net)
+10.10.50.4 (laptop-vastro.projeto_final_opcao_1_guest_net)
+10.10.50.5 (notebook-carlos.projeto_final_opcao_1_guest_net)
+10.10.50.6 (42ee73191c25)

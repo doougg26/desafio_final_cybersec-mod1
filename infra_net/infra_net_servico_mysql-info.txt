@@ -1,0 +1,19 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-07-28 03:00 UTC
+Nmap scan report for mysql-server.projeto_final_opcao_1_infra_net (10.10.30.11)
+Host is up (0.000068s latency).
+
+PORT     STATE SERVICE
+3306/tcp open  mysql
+| mysql-info: 
+|   Protocol: 10
+|   Version: 8.0.43
+|   Thread ID: 11
+|   Capabilities flags: 65535
+|   Some Capabilities: Support41Auth, Speaks41ProtocolOld, LongPassword, Speaks41ProtocolNew, IgnoreSigpipes, ODBCClient, SupportsTransactions, SupportsLoadDataLocal, InteractiveClient, FoundRows, DontAllowDatabaseTableColumn, LongColumnFlag, SupportsCompression, ConnectWithDatabase, SwitchToSSLAfterHandshake, IgnoreSpaceBeforeParenthesis, SupportsMultipleResults, SupportsMultipleStatments, SupportsAuthPlugins
+|   Status: Autocommit
+|   Salt: V\x01\x191hz5m7fI`
+| )b#\x1CkMz
+|_  Auth Plugin Name: caching_sha2_password
+MAC Address: DE:12:99:C6:52:90 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.16 seconds
